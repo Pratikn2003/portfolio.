@@ -1,0 +1,23 @@
+h1{
+    font-size: 30;
+    color:rgb(231, 102, 11);
+}
+h3{
+    font-size: 20;
+
+}
+img {
+    border-radius: 10%;
+    border: 5px solid #0b0b0b20;
+    width: 70px;
+    height: 70px;
+    margin-top: 40px;
+}
+
+body{
+    margin: 15;
+    background-image:url('https://t3.ftcdn.net/jpg/08/00/69/82/360_F_800698279_RGlezSPi0P7YdR1orbX3gVgtRCNlRqYU.jpg');
+    background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
+}
