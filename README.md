@@ -5,12 +5,14 @@ This is the personal portfolio website of Pratik Nanda, showcasing projects, ski
 ## 🌐 Live Website
 
 The portfolio is deployed using GitHub Pages and can be accessed at:
-- https://pratikn2003.github.io/portfolio
+- https://pratikn2003.github.io/portfolio.
 
 ## 📁 Repository
 
-- **GitHub Repository**: https://github.com/Pratikn2003/portfolio
+- **GitHub Repository**: https://github.com/Pratikn2003/portfolio.
 - **Owner**: Pratikn2003
+
+> **Note**: This repository has a trailing dot (`.`) in its name. This is intentional and the repository is accessible at the URL above.
 
 ## 🚀 Features
 
